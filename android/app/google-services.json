@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "216910092067",
+    "project_id": "login-a05a5",
+    "storage_bucket": "login-a05a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216910092067:android:a68bcb98afaf047b7b5e96",
+        "android_client_info": {
+          "package_name": "com.example.vegapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216910092067-4v0uu5i3lcd9512rbn90j2p28rm822as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vegapp",
+            "certificate_hash": "614d06e00c5f22bdb486b15873d14877a97ac8cb"
+          }
+        },
+        {
+          "client_id": "216910092067-91cljt7c0tq0jncif88ldgt4iocs5fon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2n-BtkVJuKUvNkuzfH-_KrOEkEWO2rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216910092067-91cljt7c0tq0jncif88ldgt4iocs5fon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
